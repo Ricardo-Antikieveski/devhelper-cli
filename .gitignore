@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE (IntelliJ / WebStorm)
+.idea/
+*.iml
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Build/output
+dist/
+build/
+
+# Scratch files
+Scratches and Consoles/

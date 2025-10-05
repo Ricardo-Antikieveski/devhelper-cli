@@ -1,0 +1,24 @@
+{
+  "name": "devhelper-cli",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "devhelper.js",
+  "bin": {
+    "devhelper-cli": "bin/devhelper.js.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "commander": "^14.0.1",
+    "execa": "^9.6.0",
+    "fs-extra": "^11.3.2",
+    "inquirer": "^12.9.6",
+    "ora": "^9.0.0"
+  }
+}
